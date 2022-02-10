@@ -1,0 +1,10 @@
+<html>
+<body>
+<p id="id2"> Hello</p>
+<p id="id2"> Hey</p>
+<p id="id1"></p>
+<script>
+document.getElementById("id1").innerHTML=document.getElementById("id2").innerHTML;
+<script>
+</body>
+</html>
